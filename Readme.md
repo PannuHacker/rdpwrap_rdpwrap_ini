@@ -1,6 +1,4 @@
-# RDPWrap.ini for RDP Wrapper Library by Stas'M
-
-## [Discord discussion](https://discord.gg/N27yFftWP3)
+# RDPWrap.ini for RDP Wrapper Library 
   
 <b>IMPORTANT!</b>
   
